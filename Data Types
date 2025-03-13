@@ -1,0 +1,11 @@
+// Create variables
+
+int myNum = 6;             // Integer 
+float myFloatNum = 2.99;   // Floating
+char myLetter = 'M';       // Character
+
+// Print variables
+
+printf("%d\n", myNum);
+printf("%f\n", myFloatNum);
+printf("%c\n", myLetter);
