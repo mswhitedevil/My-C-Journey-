@@ -2,7 +2,7 @@
 
 int myNum = 6;             // Integer 
 float myFloatNum = 2.99;   // Floating
-char myLetter = 'M';       // Character
+char myLetter = 'C';       // Character
 
 // Print variables
 
